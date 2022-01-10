@@ -1,6 +1,6 @@
 module github.com/gaia-pipeline/go-example
 
-go 1.14
+go 1.17
 
 require (
 	github.com/gaia-pipeline/gosdk v0.0.0-20180909192508-cc9f89055777
